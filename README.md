@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KibobiShtrudelz
+- 👀 I’m interested in ReactJS/TypeScript
+- 🌱 I’m currently learning many things
+- 📫 Reach me @ https://www.linkedin.com/in/petar-kolev-b71112133/
