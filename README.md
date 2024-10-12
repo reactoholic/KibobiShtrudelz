@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KibobiShtrudelz
-- 👀 I’m interested in ReactJS[Web && Mobile]/TypeScript/NextJS/NestJS/XState
+- 👀 I’m interested in ReactJS[Web && Mobile]/TypeScript
 - 🌱 I’m currently learning many things
-- 📫 Reach me @ https://www.linkedin.com/in/petar-kolev-b71112133/
+- 📫 Reach me @ https://www.linkedin.com/in/petar-kolev/
